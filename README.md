@@ -1,6 +1,6 @@
 # project_uts
 
-A new Flutter project.
+Ini adalah project UTS Mobile Programming
 
 ## Getting Started
 
